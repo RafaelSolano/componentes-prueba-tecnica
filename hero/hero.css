@@ -1,0 +1,86 @@
+ :root{
+    
+    --whithe-font-color: #FFFFFF;
+    --btn-bg-color:  #7F56D9;
+    --title-font-color: #101828;
+    --text-secondary-color: #667085;
+
+    --badget-indigo-bg: #EEF4FF;
+    --badget-indigo-text:#3538CD;
+
+    --badget-purple-bg:#F9F5FF;
+    --badget-purple-text: #6941C6;
+    
+
+    --badget-pink50-bg: #FDF2FA;
+    --badget-pink700-text: #C11574;
+    
+
+
+    --badget-green50-bg: #ECFDF3;
+    --badget-green700-text:#027A48;
+
+
+    --badget-indigo-bg: #EEF4FF;
+    --badget-indigo-text:#3538CD;
+
+
+
+   
+
+
+ }
+
+
+ /*
+ styles  hero
+ */
+
+ .hero{
+    display: grid;
+
+    
+ }
+.hero__min_title{
+    color: var(--badget-purple-text);
+}
+
+.hero__min_title{
+    color: var(--title-font-color);
+
+}
+
+.hero__text{
+    color: var(--text-secondary-color);
+}
+ /*
+ styles  form
+ */
+
+ .subscribe{
+    display: grid;
+
+ }
+
+ .subscribe__form{
+
+ }
+ .subscribe__input{
+    width: 360px;
+    height: 48px;
+    border-radius: 8px;
+
+ }
+
+ .subscribe__btn{
+    width: 118px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: var(--btn-bg-color);
+    color: var(--whithe-font-color);
+ }
+
+
+
+
+
