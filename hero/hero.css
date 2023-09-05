@@ -52,7 +52,7 @@
     color: var(--badget-purple-text);
 }
 
-.hero__min_title{
+.hero__text{
     color: var(--title-font-color);
 
 }
@@ -84,6 +84,9 @@
     height: 48px;
     border-radius: 8px;
     background-color: var(--btn-bg-color);
+
+    font-size: 16px;
+    font-weight: 500;
     color: var(--whithe-font-color);
  }
 
