@@ -24,6 +24,8 @@
     --badget-indigo-bg: #EEF4FF;
     --badget-indigo-text:#3538CD;
 
+    --font-bold: 'Inter';
+    --font-light: 'Inter';
 
 
    
@@ -31,10 +33,15 @@
 
  }
 
+ html{
+    font-family: 'Inter', sans-serif;
+ }
 
  /*
  styles  hero
  */
+
+
 
  .hero{
     display: grid;
