@@ -87,6 +87,12 @@
     color: var(--whithe-font-color);
  }
 
+ .subscribe__info{
+    color: var(--text-secondary-color);
+ }
+ .subscribe__link_privacy{
+    color: var(--text-secondary-color);
+ }
 
 
 
