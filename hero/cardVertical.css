@@ -62,17 +62,24 @@
 .card__description{
     color: var(--text-secondary-color);
     font-size: 18px;
+    
 
+}
+.badge{
+    padding: 2px 10px;
+    border-radius: 16px;
 }
 
 .badge-design{
     background-color: var(--badget-indigo-bg);
     color: var( --badget-indigo-text);
-    padding: 2px 10px;
+    
 }
 .badge-research{
     color: var(--badget-indigo-text);
     background-color: var(--badget-indigo-bg);
+    
+   
 }
 .badge-presentation{
     color: var(--badget-pink700-text);
@@ -80,4 +87,5 @@
 }
 .card__badgets{
     display: flex;
+    gap: 8px;
 }
